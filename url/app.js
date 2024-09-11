@@ -19,7 +19,7 @@ app.once('ready', () => {
   })
 
   //random change
-
+  //lets do it with bash
   // URL is argument to npm start
   const url = process.argv[2]
   window.loadURL(url)
